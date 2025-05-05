@@ -136,7 +136,7 @@ object PhotonColors {
     val LightGrey90 = Color(0xFF80808E)
 
     // Dark grey should primarily be used for the Dark theme and secondary buttons.
-    val DarkGrey05 = Color(0xFF5B5B66)
+    val DarkGrey05 = Color(0xFF45475A)
     val DarkGrey05A45 = Color(0x735B5B66)
     val DarkGrey10 = Color(0xFF313244)
     val DarkGrey20 = Color(0xFF4A4A55)
@@ -145,7 +145,7 @@ object PhotonColors {
     val DarkGrey30A96 = Color(0xF542414D)
     val DarkGrey40 = Color(0xFF3A3944)
     val DarkGrey50 = Color(0xFF32313C)
-    val DarkGrey60 = Color(0xFF11111B)
+    val DarkGrey60 = Color(0xFF1E1E2E)
     val DarkGrey70 = Color(0xFF23222B)
     val DarkGrey80 = Color(0xFF11111B)
     val DarkGrey90 = Color(0xFF15141A)
